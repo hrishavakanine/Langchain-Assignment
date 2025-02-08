@@ -1,1 +1,1 @@
-Custom Chatbot using Langchain using Ollama Embeddings LLama3 model and FAISS
+This Assignments is a custom chatbot built using LangChain, Ollama Embeddings, LLaMA3, and FAISS. The chatbot allows efficient retrieval-based responses using a vector database for better context-aware conversations.
