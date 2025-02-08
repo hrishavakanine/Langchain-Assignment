@@ -1,0 +1,13 @@
+langchain_core
+langchain_community
+langserve
+bs4
+faiss-cpu
+groq
+beautifulsoup4
+langchainhub
+langchain-objectbox
+langchain_ollama
+flask
+flask_restful
+dotenv
